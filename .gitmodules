@@ -13,3 +13,6 @@
 [submodule "reference-letter-spring-service"]
 	path = reference-letter-spring-service
 	url = https://github.com/panagiotisbellias/reference-letter-spring-service.git
+[submodule "reference-letters-app-system"]
+	path = reference-letters-app-system
+	url = https://github.com/panagiotisbellias/reference-letters-app-system.git
