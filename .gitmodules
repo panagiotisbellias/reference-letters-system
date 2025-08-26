@@ -10,3 +10,6 @@
 	path = reference-letters-vuejs-client
 	url = https://github.com/panagiotis-bellias-it21871/reference-letters-vuejs-client.git
 	branch = master
+[submodule "reference-letter-spring-service"]
+	path = reference-letter-spring-service
+	url = https://github.com/panagiotisbellias/reference-letter-spring-service.git
